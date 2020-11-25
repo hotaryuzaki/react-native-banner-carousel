@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/f111fei/react-native-banner-carousel.git"
+    "url": "git+https://github.com/hotaryuzaki/react-native-banner-carousel.git"
   },
   "keywords": [
     "react-native-component",
@@ -26,10 +26,13 @@
   "author": "xzper",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/f111fei/react-native-banner-carousel/issues"
+    "url": "https://github.com/hotaryuzaki/react-native-banner-carousel/issues"
   },
-  "homepage": "https://github.com/f111fei/react-native-banner-carousel",
+  "homepage": "https://github.com/hotaryuzaki/react-native-banner-carousel",
   "devDependencies": {
     "@types/react-native": "^0.46.9"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@hotaryuzaki"
   }
 }
